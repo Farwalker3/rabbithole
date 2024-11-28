@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbit Hole</title>
+    <link>/posts/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>My Insane Blog Pipeline</title>
+        <link>/posts/posts/my-insane-blog-pipeline/</link>
+        <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>/posts/posts/my-insane-blog-pipeline/</guid>
+        <description>&lt;h2 id=&#34;obsidian&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#obsidian&#34; title=&#39;Anchor for: Obsidian.&#39;&gt;&lt;svg aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag&#34;/&gt;&lt;/svg&gt;&lt;/a&gt; Obsidian&lt;/h2&gt; 
+
+&lt;p&gt;I got this idea from a &lt;a href=&#34;https://www.youtube.com/@NetworkChuck&#34;&gt;Network Chuck&lt;/a&gt; video. The idea starts with &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;, a markdown note taking application loved by many. This is where I will be writing my blog posts.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  &lt;h2 id=&#34;the-pipeline&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-pipeline&#34; title=&#39;Anchor for: The Pipeline.&#39;&gt;&lt;svg aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag&#34;/&gt;&lt;/svg&gt;&lt;/a&gt; The Pipeline&lt;/h2&gt; 
+
+&lt;p&gt;Once I&amp;rsquo;ve written my blog posts, they will be uploaded to Github, and then hosted on the web for all to see using a hosting provider of my choice.&lt;/p&gt;</description>
+      </item>
+    
+  </channel>
+</rss>

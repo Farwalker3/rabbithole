@@ -1,0 +1,20 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Rabbit Hole'
+theme = 'color-your-world'
+
+[params.style]
+
+  # Dark mode as default
+  # User preferences (site/system settings) will still have priority over it
+  # The default is false
+  isDark = true
+
+  # Accent colors for dark and light mode respectively
+  darkAccent   = "#1dbc91" # Default is "#1dbc91"
+  lightAccent  = "#1f676b" # Default is "#1f676b"
+
+  # More colors, pick as many as you want (not really sure if there's a limit)
+  # Apparently these may not show up on every modern browser (ie.: Firefox)
+  # There's no default value. Used here just as example
+  presets = [ "#1f676b", "#f3a530", "#902b37", "#1dbc91", "#754e85", "#7fc121", "#a8314a", "#ff7433", "#3e6728", "#c063bd" ]
